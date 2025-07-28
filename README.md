@@ -47,14 +47,14 @@ You need to provide your bot's token and your admin ID(s).
 * Create a new file in the Hopper folder and name it env.py.
 * Open this file and paste the following code, replacing the placeholders with your actual data:
 
-#### Get this from @BotFather on Telegram
+Get this from @BotFather on Telegram
 BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
 
-#### Get your Telegram user ID(s) from @userinfobot on Telegram
-#### You can add one or multiple IDs in a list, like this:
+Get your Telegram user ID(s) from @userinfobot on Telegram
+You can add one or multiple IDs in a list, like this:
 
 ADMIN_ID = [123456789]           # for one admin
-#### or
+or
 ADMIN_ID = [123456789, 987654321]  # for multiple admins
 
 ### 6. Start the Bot
