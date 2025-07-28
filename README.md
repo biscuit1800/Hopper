@@ -48,17 +48,20 @@ You need to provide your bot's token and your admin ID(s).
 * Open this file and paste the following code, replacing the placeholders with your actual data:
 
 Get this from @BotFather on Telegram
+```bash
 BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+```
+
 
 Get your Telegram user ID(s) from @userinfobot on Telegram
 You can add one or multiple IDs in a list, like this:
-
+```bash
 ADMIN_ID = [123456789]           # for one admin
-
+```
 or
-
+```bash
 ADMIN_ID = [123456789, 987654321]  # for multiple admins
-
+```
 ### 6. Start the Bot
 This command runs the main script and brings your bot online.
 ```bash
