@@ -13,3 +13,6 @@ This command downloads the bot's source code from GitHub to your computer.
 
 ```bash
 git clone https://github.com/biscuit1800/Hopper.git
+2. Enter the Project Directory
+This command moves you into the newly downloaded folder.
+cd Hopper
