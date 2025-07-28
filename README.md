@@ -54,7 +54,9 @@ Get your Telegram user ID(s) from @userinfobot on Telegram
 You can add one or multiple IDs in a list, like this:
 
 ADMIN_ID = [123456789]           # for one admin
+
 or
+
 ADMIN_ID = [123456789, 987654321]  # for multiple admins
 
 ### 6. Start the Bot
